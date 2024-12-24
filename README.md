@@ -1,3 +1,5 @@
+# Name :- V Spoorthi
+# Registration no :- 24007430
 # Monitoring-soil-moisture-value-in-Thing-speak-cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
@@ -143,7 +145,9 @@ void loop()
 
 # OUTPUT:
 
-![387139087-fcc2e936-0b3b-4aa5-97dc-06f7a910e163](https://github.com/user-attachments/assets/0db92ff8-efdb-47da-8c8d-c3328f27c0fb)
+![397915806-f5f23f64-2b89-4142-8574-e07d772b9842](https://github.com/user-attachments/assets/5344858e-d37b-4869-80e6-41e387ce2e6e)
+
+![397915792-16cbf01a-a10b-42a7-bf22-dfc3090cdb15](https://github.com/user-attachments/assets/0fc5c87d-cbbe-46da-a430-d20460b4e4cb)
 
 # RESULT:
 Thus the soil moisture values are updated in the Thing speak cloud using ESP32 controller.
